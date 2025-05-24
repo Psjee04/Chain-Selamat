@@ -1,6 +1,6 @@
-# D-Chain
+# ChainSelamat
 
-D-Chain is a modern web application built with Next.js and TypeScript, designed to help users track and manage disaster-related information. The platform features an interactive map interface powered by Leaflet, allowing users to visualize disaster locations and related data.
+ChainSelamat is a modern web application built with Next.js and TypeScript, designed to help users track and manage disaster-related information. The platform features an interactive map interface powered by Leaflet, allowing users to visualize disaster locations and related data.
 
 ## Features
 
@@ -32,8 +32,8 @@ D-Chain is a modern web application built with Next.js and TypeScript, designed 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Psjee04/D-Chain.git
-   cd D-Chain
+   git clone https://github.com/Psjee04/Chain-Selamat.git
+   cd ChainSelamat
    ```
 
 2. Install dependencies:
@@ -62,7 +62,7 @@ D-Chain is a modern web application built with Next.js and TypeScript, designed 
 ## Project Structure
 
 ```
-D-Chain/
+ChainSelamat/
 ├── components/     # Reusable UI components
 ├── pages/         # Next.js pages and API routes
 ├── public/        # Static assets

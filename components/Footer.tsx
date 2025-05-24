@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
           <div className="col-span-1 md:col-span-1">
             <Link href="/" className="inline-block mb-6">
-              <Image src="/logo.svg" alt="D-Chain Logo" width={150} height={45} />
+              <Image src="/logo.svg" alt="ChainSelamat Logo" width={150} height={45} />
             </Link>
             <p className="text-gray-600 dark:text-gray-400 mb-6">
               Transparent, efficient, and equitable disaster response system powered by blockchain technology.
@@ -55,7 +55,7 @@ export default function Footer() {
         <div className="border-t border-gray-200 dark:border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-600 dark:text-gray-400 text-sm mb-4 md:mb-0">
-              &copy; {new Date().getFullYear()} D-Chain. All rights reserved.
+              &copy; {new Date().getFullYear()} ChainSelamat. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <Link href="#" className="text-sm text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400">

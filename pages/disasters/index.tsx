@@ -121,7 +121,7 @@ const DisastersIndexPage = () => {
   return (
     <>
       <Head>
-        <title>Real-time Disasters Map | D-Chain</title>
+        <title>Real-time Disasters Map | ChainSelamat</title>
         <meta name="description" content="Real-time information about ongoing disasters, affected areas, and estimated victims." />
         <link
           rel="stylesheet"

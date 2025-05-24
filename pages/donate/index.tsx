@@ -68,7 +68,7 @@ const DonatePage = () => {
   return (
     <>
       <Head>
-        <title>Donate to Disaster Victims | D-Chain</title>
+        <title>Donate to Disaster Victims | ChainSelamat</title>
         <meta name="description" content="Make a secure and transparent donation to help disaster victims through our blockchain-based platform." />
       </Head>
 

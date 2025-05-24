@@ -10,7 +10,7 @@ export default function Navbar() {
     <nav className="w-full py-4 bg-white dark:bg-gray-900 shadow-md fixed top-0 z-50">
       <div className="container mx-auto px-4 md:px-6 flex justify-between items-center">
         <Link href="/" className="flex items-center">
-          <Image src="/logo.svg" alt="D-Chain Logo" width={150} height={45} />
+          <Image src="/logo.svg" alt="ChainSelamat Logo" width={150} height={45} />
         </Link>
         
         {/* Mobile menu button */}
