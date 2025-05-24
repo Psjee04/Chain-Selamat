@@ -293,19 +293,19 @@ const DisastersIndexPage = () => {
                   </thead>
                   <tbody className="bg-white dark:bg-gray-800 divide-y divide-gray-200 dark:divide-gray-700">
                     <tr>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">12 May 2025, 14:45</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">24 May 2025, 14:45</td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-white">Coastal Flooding</td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">Victim Count Update</td>
                       <td className="px-6 py-4 text-sm text-gray-500 dark:text-gray-400">Estimated victims increased to 12,500</td>
                     </tr>
                     <tr>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">12 May 2025, 14:40</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">23 May 2025, 14:40</td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-white">Forest Fire</td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">Aid Distribution</td>
                       <td className="px-6 py-4 text-sm text-gray-500 dark:text-gray-400">$120,000 allocated for emergency relief</td>
                     </tr>
                     <tr>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">12 May 2025, 14:35</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">22 May 2025, 14:35</td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-white">Landslide</td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">New Affected Area</td>
                       <td className="px-6 py-4 text-sm text-gray-500 dark:text-gray-400">Brinchang added to affected areas</td>
